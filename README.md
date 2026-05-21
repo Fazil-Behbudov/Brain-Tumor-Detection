@@ -201,5 +201,4 @@ jupyter notebook notebooks/
 - [x] Performance optimization
 - [x] Documentation
 ---
-**Model Accuracy:** ~78% (75-82% range)
-**Status:** Production-ready baseline
+
